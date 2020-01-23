@@ -1,0 +1,144 @@
+* {
+  font-family: NunitoSans;
+}
+
+.maindiv1 {
+  width: 1366px;
+  height: 768px;
+  background-color: #ffffff;
+  border: 1px solid rgba(159, 159, 159, 0.16);
+}
+
+.submaindiv {
+  width: 1088px;
+  height: 100%;
+  margin: auto;
+}
+
+.home {
+  height: 12px;
+  margin-top: 64px;
+  margin-left: 0;
+}
+
+.texthome {
+  color: #000000
+}
+
+.path {
+  margin-right: 6.6px;
+}
+
+.identifier {
+  height: 27px;
+  margin-top: 50px;
+  margin-left: 0;
+}
+
+.id {
+    width: 168px;
+    height: 27px;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: #693904;
+}
+
+.bigdiv {
+  width: 100%;
+  height: 491px;
+}
+
+.image {
+  margin: 0;
+  float: left;
+}
+
+.others {
+  display: inline-block;
+  width: 610px;
+  height: 491px;
+  margin-left:30px;
+}
+
+.namevol {
+  width: 610px;
+  height: 49px;
+  float: left;
+}
+
+.name {
+  float: left;
+  width: 278px;
+  height: 49px;
+}
+
+#fullname {
+  font-size: 20px;
+  text-align: left;
+  color: #000000;
+  font-weight: bold;
+}
+
+#year {
+  font-size: 16px;
+  text-align: left;
+  color: #a0a0a0;
+  font-weight: bold;
+}
+
+.vol {
+  display: inline-block;
+  float: left;
+  margin-left: -25px;
+  position: absolute;
+}
+
+#volume {
+  margin-left: 10px;
+}
+
+.eulloc {
+  clear: both;
+  margin-top: 15px;
+  width: 610px;
+  height: 40px;
+}
+
+.eulogy {
+  width: 132px;
+  height: 40px;
+  background-color: #ffffff;
+  border: 1px solid #9f9f9f;
+  color: #9f9f9f;
+  padding: 9px 41px;
+  font-weight: bold;
+}
+
+.location {
+  width: 132px;
+  height: 40px;
+  background-color: #ffffff;
+  border: 1px solid #693904;
+  color: #693904;
+  padding: 9px 34px;
+  font-weight: bold;
+}
+
+.eulogy a {
+  text-decoration: none;
+  color: #9f9f9f;
+}
+
+.eulogy a:hover {
+  text-decoration: underline;
+}
+
+.map {
+  margin-top: 25px;
+}
+

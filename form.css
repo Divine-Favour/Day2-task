@@ -1,0 +1,319 @@
+* {
+  font-family: NunitoSans;
+  font-size: 16px;
+}
+
+.biggest {
+  width: 1366px;
+  height: 768px;
+  background-color: white;
+  border: 1px solid rgba(159, 159, 159, 0.16);
+}
+
+.bigger {
+  width: 1266px;
+  height: 100%;
+  margin: auto;
+}
+
+.wrapper {
+  width: 100%;
+  height: 443px;
+  margin-top: 70px;
+}
+
+.right {
+  display: block;
+  width: 618px;
+  height: 373px;
+  float: right;
+}
+
+.bioleft {
+  float: left;
+  margin-right: 0;
+  /* margin-bottom: 8px; */
+}
+
+#bio {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+.ajah {
+  width: 100%;
+  height: 343px;
+  border: 1px solid #bababa;
+  margin-top: 8px;
+}
+
+#lagos {
+  display: inline-block;
+  padding-top: 6px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.left {
+  height: 443px;
+  width: 618px;
+}
+
+.idnum {
+  display: block;
+  width: 186px;
+  height: 61px;
+  float: left;
+}
+
+#idnumber {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+.id {
+  margin-bottom: 0;
+}
+
+.num {
+  width: 186px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+}
+
+#code {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.left2 {
+  display: inline-block;
+  clear: left;
+  width: 100%;
+  height: 64px;
+  margin-top: 40px;
+}
+
+#surname {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+.sur {
+  margin-bottom: 0;
+}
+
+.name {
+  width: 186px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+}
+
+#houston {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.leftdiv {
+  float: left;
+  margin-right: 27px;
+}
+
+.leftdiv2 {
+  float: left;
+  margin-right: 0;
+}
+
+.mid {
+  margin-bottom: 0;
+}
+
+#middlename {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+.name1 {
+  width: 186px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+}
+
+#oluwasope {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.first {
+  margin-bottom: 0;
+}
+
+#firstname {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+.name2 {
+  width: 186px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+}
+
+#whitney {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.left3 {
+  display: inline-block;
+  clear: left;
+  width: 100%;
+  height: 64px;
+  margin-top: 40px;
+}
+
+.birthdate {
+  float: left;
+  margin-right: 25px;
+}
+
+.deathdate {
+  float: left;
+  margin-right: 0;
+}
+
+.date {
+  margin-bottom: 0;
+}
+
+#dob {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+/* .year {
+  width: 294px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+} */
+
+.select {
+  width: 294px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+  background-color: white;
+  font-weight: 600;
+}
+
+#startyear {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.date1 {
+  margin-bottom: 0;
+}
+
+#dod {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+/* .year1 {
+  width: 294px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+} */
+
+.select1 {
+  width: 294px;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+  background-color: white;
+  font-weight: 600;
+}
+
+#endyear {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.left4 {
+  display: inline-block;
+  clear: left;
+  width: 100%;
+  height: 64px;
+  margin-top: 40px;
+}
+
+.addr {
+  margin-bottom: 0;
+}
+
+#address {
+  text-align: left;
+  color: #6a6a6a;
+}
+
+.map {
+  width: 100%;
+  height: 34px;
+  border: 1px solid #bababa;
+  margin-top: 5px;
+}
+
+#adesanya {
+  display: inline-block;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.blue {
+  width: 45.4px;
+  height: 34px;
+  background-color: #64a4fc;
+  float: right;
+}
+
+.submit {
+  width: 132px;
+  height: 40px;
+  background-color: #693904;
+  border: 0;
+  margin-top: 30px;
+  color: white;
+}
+
+.submit a {
+  text-decoration: none;
+  color: white;
+}
+
+.submit a:hover {
+  text-decoration: underline;
+}
+
+#locator {
+  padding: 4px 16.4px;
+}
